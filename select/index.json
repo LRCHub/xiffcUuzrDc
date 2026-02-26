@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Wish I Could Fly",
+  "base_artist": "Roxette",
+  "createdAt": "2026-02-26T15:37:08.253246Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wish I could fly",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/01_Wish_I_could_fly_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wish I Could Fly",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/02_Wish_I_Could_Fly_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wish I Could Fly",
+      "artist": "Roxette",
+      "has_synced": false,
+      "path": "select/03_Wish_I_Could_Fly_Roxette.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wish I Could Fly",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/04_Wish_I_Could_Fly_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wish I Could Fly",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/05_Wish_I_Could_Fly_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wish I Could Fly",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/06_Wish_I_Could_Fly_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wish I Could Fly",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/07_Wish_I_Could_Fly_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wish I Could Fly",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/08_Wish_I_Could_Fly_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wish I Could Fly",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/09_Wish_I_Could_Fly_Roxette.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wish I Could Fly",
+      "artist": "Roxette",
+      "has_synced": false,
+      "path": "select/pl_01_Wish_I_Could_Fly_Roxette.txt"
+    }
+  ]
+}
